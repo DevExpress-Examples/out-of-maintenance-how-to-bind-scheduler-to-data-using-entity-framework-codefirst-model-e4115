@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EFAppointment.cs](./CS/DXSchedulerEFTest/EFAppointment.cs) (VB: [EFAppointment.vb](./VB/DXSchedulerEFTest/EFAppointment.vb))
+* [EFResource.cs](./CS/DXSchedulerEFTest/EFResource.cs) (VB: [EFResource.vb](./VB/DXSchedulerEFTest/EFResource.vb))
+* [MainWindow.xaml](./CS/DXSchedulerEFTest/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSchedulerEFTest/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXSchedulerEFTest/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXSchedulerEFTest/MainWindow.xaml))
+* [SchedulerContext.cs](./CS/DXSchedulerEFTest/SchedulerContext.cs) (VB: [SchedulerContext.vb](./VB/DXSchedulerEFTest/SchedulerContext.vb))
+<!-- default file list end -->
 # How to bind Scheduler to data using Entity Framework CodeFirst model
 
 
