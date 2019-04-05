@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/DXSchedulerGettingStarted/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DXSchedulerGettingStarted/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/DXSchedulerGettingStarted/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXSchedulerGettingStarted/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/DXSchedulerGettingStarted/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXSchedulerGettingStarted/MainWindow.xaml.vb))
 * [MySchedulerModel.cs](./CS/DXSchedulerGettingStarted/MySchedulerModel.cs) (VB: [MySchedulerModel.vb](./VB/DXSchedulerGettingStarted/MySchedulerModel.vb))
 <!-- default file list end -->
